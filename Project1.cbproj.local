@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.012,D:\RAD_Studio\RangeChart\Unit1.h=D:\studio\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.012,D:\RAD_Studio\RangeChart\Unit1.cpp=D:\studio\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.311,D:\RAD_Studio\RangeChart\Project1PCH1.h=D:\studio\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,D:\RAD_Studio\RangeChart\uRangeChart.cpp=D:\studio\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,=D:\studio\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,=D:\studio\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,=D:\studio\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,D:\RAD_Studio\RangeChart\uRangeChart.h=D:\studio\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.012,D:\RAD_Studio\RangeChart\Unit1.dfm=D:\studio\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.114,D:\RAD_Studio\RangeChart\Project1.cbproj=D:\studio\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
